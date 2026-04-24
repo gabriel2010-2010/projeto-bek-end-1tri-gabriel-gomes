@@ -1,0 +1,60 @@
+.parteum {
+    display: flex;
+    width: 30%;
+    background-color: #0d6cb0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.parteum img{
+    width: 70px;
+    margin: 0;
+    height: 70px;
+
+}
+
+.partedois {
+    width: 100%;
+    background-color: rgb(231, 231, 231);
+    min-height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+}
+
+.titulo{
+
+     background-color: #064979;
+        width: 500px;
+        height: 60px;
+        padding: 20px;
+        color: rgb(255, 255, 255);
+        border: 1px solid #064979;
+  font-family: "Lato", sans-serif;
+  border-radius: 10px;
+  align-items: center;
+    justify-content: center;
+    font-size: 30px;
+
+    .login-card 
+    display: flex;
+    width: 900px;
+    height: 550px;
+    background-color: white;
+    border: 2px solid #000;
+
+}
+
